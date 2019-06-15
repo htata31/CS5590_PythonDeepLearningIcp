@@ -15,7 +15,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 1/3, rando
 
 # Fitting SVC with linear kernal to the Training set
 from sklearn.svm import SVC
-classifier = SVC(kernel='linear')
+classifier = SVC(kernel='rbf')
 classifier.fit(X_train, y_train)
 
 # Predicting the Test set results
@@ -29,6 +29,8 @@ test_acc = accuracy_score(y_test, y_pred_test)
 
 print("The train Accuracy score of SVC with linear kernal is", round(train_acc * 100, 2))
 print("The test Accuracy score of SVC with linear kernal is", round(test_acc * 100, 2))
+
+
 
 
 

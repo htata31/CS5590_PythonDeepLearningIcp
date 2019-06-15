@@ -1543,7 +1543,7 @@ https://www.nature.com/news/the-scientist-who-spots-fake-videos-1.22784
 http://www.deeplearningbook.org
 /wiki/International_Standard_Book_Number
 /wiki/Special:BookSources/978-0-26203561-3
-https://en.wikipedia.org/w/index.php?title=Deep_learning&oldid=901224186
+https://en.wikipedia.org/w/index.php?title=Deep_learning&oldid=901869586
 /wiki/Help:Category
 /wiki/Category:Deep_learning
 /wiki/Category:Artificial_neural_networks
@@ -1588,10 +1588,10 @@ https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate
 /wiki/Special:RecentChangesLinked/Deep_learning
 /wiki/Wikipedia:File_Upload_Wizard
 /wiki/Special:SpecialPages
-/w/index.php?title=Deep_learning&oldid=901224186
+/w/index.php?title=Deep_learning&oldid=901869586
 /w/index.php?title=Deep_learning&action=info
 https://www.wikidata.org/wiki/Special:EntityPage/Q197536
-/w/index.php?title=Special:CiteThisPage&page=Deep_learning&id=901224186
+/w/index.php?title=Special:CiteThisPage&page=Deep_learning&id=901869586
 https://commons.wikimedia.org/wiki/Category:Deep_learning
 /w/index.php?title=Special:Book&bookcmd=book_creator&referer=Deep+learning
 /w/index.php?title=Special:ElectronPdf&page=Deep+learning&action=show-download-screen
@@ -1612,6 +1612,7 @@ https://id.wikipedia.org/wiki/Pembelajaran_dalam
 https://it.wikipedia.org/wiki/Apprendimento_profondo
 https://he.wikipedia.org/wiki/%D7%9C%D7%9E%D7%99%D7%93%D7%94_%D7%A2%D7%9E%D7%95%D7%A7%D7%94
 https://mn.wikipedia.org/wiki/Deep_learning
+https://nl.wikipedia.org/wiki/Deep_learning
 https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0
 https://no.wikipedia.org/wiki/Dyp_l%C3%A6ring
 https://oc.wikipedia.org/wiki/Aprendissatge_prigond
