@@ -45,8 +45,8 @@ km = KMeans(n_clusters=3)
 km.fit(x)
 y_cluster_kmeans= km.predict(x)
 from sklearn import metrics
-score = metrics.silhouette_score(x, y_cluster_kmeans)
-print(score)
+# score = metrics.silhouette_score(x, y_cluster_kmeans)
+# print(score)
 
 # standardization
 
@@ -57,10 +57,10 @@ scaler.fit(x)
 
 # Apply transform to both the training set and the test set.
 x_scaler = scaler.transform(x)
-pca = PCA(3)
+pca = PCA(2)
 x_pca = pca.fit_transform(x_scaler)
 df2 = pd.DataFrame(data=x_pca)
-finaldf = pd.concat([df2,data[['TENURE']]],axis=1)
+finaldf = pd.concat([df2,data[['TENURE']]], axis=1)
 print(finaldf)
 
 # KMeans after standarization
