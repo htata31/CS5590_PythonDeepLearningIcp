@@ -14,7 +14,7 @@ from collections import Counter
 ps = PorterStemmer()
 
 lemmatizer = WordNetLemmatizer()
-text = open('data.txt', encoding="utf8").read()
+text = open('input.txt', encoding="utf8").read()
 
 # tokenization
 w_tokens =word_tokenize(text)

@@ -18,7 +18,7 @@ def get_href():
 
 def write(data):
     # Writing into a text file
-    with open('data.txt', 'w', encoding='utf-8') as f:
+    with open('input.txt', 'w', encoding='utf-8') as f:
             f.write(data)
 
 
