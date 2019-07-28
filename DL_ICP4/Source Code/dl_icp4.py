@@ -87,9 +87,7 @@ import datetime, os
 logdir = os.path.join("logs", datetime.datetime.now().strftime("%Y%m%d-%H%M%S"))
 # tensorboard_callback = tf.keras.callbacks.TensorBoard(logdir, histogram_freq=1)
 
-!pip install -q tf-nightly-2.0-preview
-# Load the TensorBoard notebook extension
-# %load_ext tensorboard
+
 
 # Fit the model
 tbCallBack = TensorBoard(log_dir='./Graph', histogram_freq=0, write_graph=True, write_images=True)
